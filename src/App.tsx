@@ -4,11 +4,11 @@ import './App.scss';
 
 function App() {
   return (
-    <div className="App bg-red-200">
+    <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          React + TypeScript + TailwindCSS demo
         </p>
         <a
           className="App-link"
